@@ -6,3 +6,7 @@ body {
 .m-heading {
     font-family: "Roboto Slab", serif;
 }
+
+.navigationbar {
+    background-color: #1f2235 !important;
+}
