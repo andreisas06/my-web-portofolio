@@ -10,3 +10,7 @@ body {
 .navigationbar {
     background-color: #1f2235 !important;
 }
+
+.navbar-nav{
+    font-size: x-large;
+}
