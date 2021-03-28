@@ -11,6 +11,21 @@ body {
     background-color: #1f2235 !important;
 }
 
-.navbar-nav{
+.navbar-nav {
     font-size: larger;
+}
+
+.name-logo {
+
+    padding-top: 0.8%;
+}
+
+.nav-link {
+    border: 2px solid transparent;
+}
+
+.nav-link:hover {
+    text-decoration: none;
+    border-bottom: 2px solid #FFC10B;
+    transition: 2s ease;
 }
