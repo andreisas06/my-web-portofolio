@@ -29,3 +29,39 @@ body {
     border-bottom: 2px solid #FFC10B;
     transition: 1s ease;
 }
+
+.logo{
+    margin-left: 13%;
+    margin-right: 3%;
+}
+
+.main-container {
+    min-height: 100vh;
+    padding-top: 5rem;
+}
+
+.title-heading:hover {
+    color: #FFC10B;
+}
+
+.main-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-row h1{
+    font-size: 5rem;
+}
+
+.main-row img {
+    width: auto;
+    height: 30rem;
+    border-radius: 10%;
+}
+
+#about {
+    background: #313552;
+    border-radius: 0.5rem;
+    margin-bottom: 2%;
+}
