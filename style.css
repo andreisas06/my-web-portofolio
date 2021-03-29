@@ -1,3 +1,7 @@
+html{
+    scroll-behavior: smooth;
+}
+
 body {
     background-color: #1f2235;
     font-family: "Baloo Tamma 2", cursive;
@@ -70,7 +74,7 @@ body {
     border-bottom: 8px solid #FFC10B;
 }
 
-#social-media{
+#social_media{
     background: #313552;
 }
 
@@ -80,4 +84,5 @@ body {
     margin-left: 1rem;
     border: 4px solid #FFC10B;
     border-radius: 0.5rem;
+    margin-top: 1rem;
 }
