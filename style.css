@@ -76,8 +76,8 @@ body {
 
 .media-link {
     padding: 1rem;
-    max-width: 15rem;
+    max-width: 12rem;
     margin-left: 1rem;
-    border: 2px solid #FFC10B;
+    border: 4px solid #FFC10B;
     border-radius: 0.5rem;
 }
